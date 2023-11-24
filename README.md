@@ -7,7 +7,7 @@ Erika Martínez Pérez
 - [PHP8.1]
 - [XDebug3.1.2]
 ## Descripcion
-Documentacion de la asignatura diseño de interfaces web / DAW
+Documentacion de la asignatura diseño de interfaces web
 ## Funcionalidades
 ## Entorno de desarrollo
 [http://daw202.isauces.local/202DIWProyectoDIW/indexProyectoDIW.php]
